@@ -24,10 +24,10 @@
 .ANDREY{
     color: cyan;
 }
-table{
+.table{
     width: 100px;
 }
-.table, th, td{
+table, th, td{
     border:1px solid black;
     padding: 8px;
 }
