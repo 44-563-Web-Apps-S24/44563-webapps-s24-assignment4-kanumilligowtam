@@ -3,6 +3,11 @@
     font-size:15px;
     color:black;
 }
+.NATASHA:hover {
+    text-shadow: 2px 2px 5px rgb(88, 96, 171,0.9);
+    border: 2px solid rgb(168, 62, 136);
+    padding: 5px;
+}
 
 .direction {
     font-family:'Times New Roman', Times, serif;
