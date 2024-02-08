@@ -45,3 +45,10 @@ th{
 td{
     background-color: lightgreen;
 }
+.navbar-a{
+    text-align: center; 
+    padding:4%;
+    color:rgb(13, 8, 8);
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
